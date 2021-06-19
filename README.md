@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Fraidoon Omarzai.
-- 👀 I’m interested in AI/ML.
-- 🌱 I’m currently learning computer application and AI/ML.
+- 👋 Hi, Here is Fraidoon Omarzai.
+- 👀 Go in for AI/ML/DL.
 
 <!---
 FraidoonOmarzai/FraidoonOmarzai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
