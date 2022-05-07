@@ -1,7 +1,8 @@
 <h1> Welcome Guys 👋</a>
- ### 👨‍💻️ Here is Fraidoon Omarzai.
- ### 👀 Go in for AI/ML/DL.
- ### 🏥️ Eager to use Machine Learning and Deep Learning in Medicine.
+
+### 👨‍💻️ Here is Fraidoon Omarzai.
+### 👀 Go in for AI/ML/DL.
+### 🏥️ Eager to use Machine Learning and Deep Learning in Medicine.
 
 <!---
 FraidoonOmarzai/FraidoonOmarzai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
