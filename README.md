@@ -1,4 +1,4 @@
-<h1> Welcome Guys 👋</a>
+<h1 align="center"> Welcome Guys 👋</h1>
 
 ### 👨‍💻️ Here is Fraidoon Omarzai.
 ### 👀 Go in for AI/ML/DL.
