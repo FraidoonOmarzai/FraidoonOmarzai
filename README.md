@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome Guys 👋</h1>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### 👨‍💻️ Here is Fraidoon Omarzai.
 ### 👀 Go in for AI/ML/DL.
