@@ -1,8 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### 👨‍💻️ Here is Fraidoon Omarzai.
+### 👨‍💻️ Here is Fraidoon Omarzai, future Entrepreneur.
 ### 👀 Go in for AI/ML/DL.
-### 🏥️ Eager to use Machine Learning and Deep Learning in Medicine.
+### 🏥️ Eager to use Machine Learning and Deep Learning in Medicine and business.
 
 <!---
 FraidoonOmarzai/FraidoonOmarzai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
