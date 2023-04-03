@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### 👨‍💻️ Here is Fraidoon Omarzai, future Entrepreneur.
+### 👨‍💻️ Here is Fraidoon Omarzai, AI Enthusiast.
 ### 👀 Go in for AI/ML/DL.
 ### 🏥️ Eager to use Machine Learning and Deep Learning in Medicine and business.
 
