@@ -16,6 +16,7 @@
 - 🧠 Deep Learning
 - 👁️ Computer Vision 
 - 🗣️ Natural Language Processing
+- 🦾 LLM & Agentic AI
 
 ---
 
@@ -29,16 +30,10 @@
   <a href="https://huggingface.co/" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="50" height="50"/>
   </a>
-  <a href="https://www.nltk.org/" target="_blank">NLTK</a>
-
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/>
-  </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
   </a>
-  <a href="https://mlflow.org/" target="_blank">
-  <img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" width="50" height="50"/>
+  <a href="https://mlflow.org/" target="_blank">MLOps
 </a>
 
   <a href="https://www.mongodb.com/" target="_blank">
